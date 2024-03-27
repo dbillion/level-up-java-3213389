@@ -6,7 +6,7 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Launch App",
+   00   "name": "Launch App",
       "request": "launch",
       "mainClass": "com.linkedin.javacodechallenges.App",
       "projectName": "javacodechallenges"
